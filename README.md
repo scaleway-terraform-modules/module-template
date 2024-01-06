@@ -19,6 +19,7 @@ module "my_service" {
 ```
 
 <!-- BEGIN_TF_DOCS -->
+
 <!-- END_TF_DOCS -->
 
 ## Authors
