@@ -43,7 +43,7 @@ GitHub provides additional document on [forking a repository](https://help.githu
 ## AI-assisted contributions
 Contributions made with the help of AI tools (Claude, ChatGPT, Copilot, Gemini, Mistral, local models, ...) are welcome, as long as they are explicit.
 
-* **You are responsible for what you submit.** Contributions made with AI sit under the responsibility of their operator, the person running the tool. You must have reviewed, understood and tested every change, be able to answer review comments yourself, and make sure the code can be published under this project's license.
+* **You are responsible for what you submit.** Contributions made with AI sit under the responsibility of their operator, the person running the tool. You must have reviewed, understood and tested every change, be able to answer review comments yourself, and make sure the code can be published under the project's license.
 * **Disclose AI usage in each commit.** Every commit containing work produced or modified by an AI must end with a `Co-Authored-By:` trailer per AI involved, giving the model, its version and any relevant detail (tool, model identifier, reasoning effort, local or hosted, ...):
 
   ```text
@@ -54,7 +54,7 @@ Contributions made with the help of AI tools (Claude, ChatGPT, Copilot, Gemini, 
 * **Disclose AI usage in the pull request** by filling in the "AI usage" section of the pull request template.
 * Maintainers squashing a pull request must keep the `Co-Authored-By:` trailers in the final commit message.
 
-Instructions for AI agents themselves are in [AGENTS.md](AGENTS.md).
+Repositories may also contain an `AGENTS.md` file with instructions for AI agents themselves.
 
 
 ## Finding contributions to work on

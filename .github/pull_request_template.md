@@ -17,5 +17,5 @@ Tick one box. If AI was used, say which model(s) and tool(s), and what for.
 ## Checklist
 
 - [ ] I have reviewed, understood and tested every change in this pull request, and I take responsibility for it.
-- [ ] `terraform fmt`, `terraform validate` and `tflint` pass locally.
-- [ ] The documentation block of `README.md` is up to date (`terraform-docs .`).
+- [ ] Terraform code (if applicable): `terraform fmt`, `terraform validate` and `tflint` pass locally.
+- [ ] Terraform modules (if applicable): the documentation block of `README.md` is up to date (`terraform-docs .`).
