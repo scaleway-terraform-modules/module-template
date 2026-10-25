@@ -24,7 +24,7 @@ module "my_service" {
 
 ## Authors
 
-Module is maintained with help from [the community](https://github.com/scaleway-terraform-modules/terraform-scaleway-domain/graphs/contributors).
+Module is maintained with help from [the community](https://github.com/scaleway-terraform-modules/terraform-scaleway-<module>/graphs/contributors).
 
 ## License
 
